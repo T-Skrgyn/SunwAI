@@ -100,6 +100,21 @@ SunwAI (*"Har Samasya Ki Sunwai"* — Every Problem Gets Heard) is a full-stack 
 | Voice | Web Speech API |
 
 ---
+## 🌐 Google Technologies Used
+
+| Technology | Usage |
+|-----------|-------|
+| Google Maps JS API | Heatmap, markers, geocoding |
+| Google Gemma 4 31B | Multilingual civic chatbot |
+| Google Gemma 3N E2B | Photo/video issue classification |
+| Google Gemma 3N E4B | AI PDF report generation |
+| Firebase Auth | Google Sign-In + Email/Password |
+| Firebase Firestore | Real-time issue database |
+| Firebase Cloud Functions | Serverless NVIDIA API proxy |
+| Firebase Hosting | PWA deployment |
+| Google Geocoding API | GPS → Indian address |
+
+---
 
 ## 🔧 Setup & Run Locally
 
@@ -170,21 +185,7 @@ SunwAI/
 
 ---
 
-## 🌐 Google Technologies Used
 
-| Technology | Usage |
-|-----------|-------|
-| Google Maps JS API | Heatmap, markers, geocoding |
-| Google Gemma 4 31B | Multilingual civic chatbot |
-| Google Gemma 3N E2B | Photo/video issue classification |
-| Google Gemma 3N E4B | AI PDF report generation |
-| Firebase Auth | Google Sign-In + Email/Password |
-| Firebase Firestore | Real-time issue database |
-| Firebase Cloud Functions | Serverless NVIDIA API proxy |
-| Firebase Hosting | PWA deployment |
-| Google Geocoding API | GPS → Indian address |
-
----
 
 <div align="center">
   <strong>SunwAI — Har Samasya Ki Sunwai</strong><br/>
