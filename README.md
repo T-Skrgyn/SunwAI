@@ -1,7 +1,7 @@
 <div align="center">
   <img src="public/logo.png" alt="SunwAI Logo" width="120" />
   
-  # SunwAI — हर समस्या की सुनवाई
+  # SunwAI — Har Samasya Ki Sunwai
   
   **AI-Powered Hyperlocal Civic Issue Reporting Platform for Indian Cities**
   
@@ -185,6 +185,6 @@ SunwAI/
 ---
 
 <div align="center">
-  <strong>SunwAI — हर समस्या की सुनवाई</strong><br/>
-  Made with ❤️ for Indian citizens | Vibe2Ship Hackathon 2026
+  <strong>SunwAI — Har Samasya Ki Sunwai</strong><br/>
+  Vibe2Ship Hackathon 2026
 </div>
