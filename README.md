@@ -100,6 +100,8 @@ SunwAI (*"Har Samasya Ki Sunwai"* — Every Problem Gets Heard) is a full-stack 
 | Voice | Web Speech API |
 
 ---
+
+
 ## 🌐 Google Technologies Used
 
 | Technology | Usage |
